@@ -8,7 +8,7 @@ app.use(cors());
 const rappers = {
   "21 savage": {
     age: 29,
-    birthName: "Holy shit thats a long name",
+    birthName: "Shéyaa Bin Abraham-Joseph",
     birthLocation: "London, England",
   },
   "chance the rapper": {
